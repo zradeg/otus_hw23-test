@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/mnt/d/courses/OTUS/hw23-DNS-DHCP/test","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
